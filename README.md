@@ -1,4 +1,4 @@
 # Olá! EU Sou DevBrunodJesus👋
-<h2> 👨‍💻 Aprimorando como Profissional de Tecnologia ... </h2>
+<h2> 👨‍💻 Buscando me aprimorar como um Profissional de Tecnologia ... </h2>
 
 
